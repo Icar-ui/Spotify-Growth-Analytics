@@ -1,10 +1,16 @@
-# 🎵 Spotify Marketing Analytics: User Segmentation
-This project uses Machine Learning (K-Means) to group Spotify users based on their listening habits. 
+# 🎵 Spotify Growth Analytics: Market Segmentation
 
-### 🎯 Business Objective
-The goal is to identify "At Risk" users (those who skip many songs and listen less) to send them targeted marketing offers and improve retention.
+## 📌 Project Overview
+In this project, I analyzed a real-world Spotify dataset containing over 114,000 tracks. The goal was to identify high-performing genres to assist the Marketing team in driving user engagement.
 
-### 🛠 Tech Stack
-- **Python**: For data processing.
-- **Scikit-Learn**: For Clustering.
-- **Matplotlib**: For Data Visualization.
+## 🚀 Key Insights
+- Successfully identified the **Top 10 most popular genres** using data-driven analysis.
+- Visualized popularity trends to guide budget allocation for Spotify's marketing campaigns.
+
+## 🛠 Tech Stack
+- **Python**: (Pandas, Matplotlib)
+- **Data Source**: Kaggle Spotify Tracks Dataset
+- **Environment**: Google Colab / Jupyter Notebook
+
+## 📂 Project Structure
+- `Spotify_Final_Analysis.ipynb`: The complete technical analysis and visualizations.
